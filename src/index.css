@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loginInput {
+  @apply py-2 px-2 pr-[170px] border mb-2;
+}
